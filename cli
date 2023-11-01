@@ -1,0 +1,18 @@
+def get_empty_board():
+    return [
+        [None, None, None],
+        [None, None, None],
+        [None, None, None],
+    ]
+
+
+
+if __name__ == '__main__'"
+    # get  a empty board
+    board = get_empty_board
+    # ask user input
+    # check for winner
+    # check if game is draw
+    # print the winner
+
+
